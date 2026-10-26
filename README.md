@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hello! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smhenao&color=blue&style=flat" alt="smhenao" /> </p>
+My name is Sebastian.
 
-<!--
-**smhenao/smhenao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student, a mostly self-taught developer and tech enthusiast.
 
-Here are some ideas to get you started:
+My main interests and skills in tech include:
+- Python, Java, Rust (still learning!), and C programming.
+- Linux systems
+- Computer hardware
+- Web development
+- And much more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my profile you will mostly find personal projects, learning tools and experiments.
