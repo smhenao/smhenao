@@ -11,4 +11,4 @@ My main interests and skills in tech include:
 - Web development
 - And much more.
 
-In my profile you will mostly find personal projects, learning tools and experiments.
+In my profile you will mainly find personal projects, learning tools and experiments.
